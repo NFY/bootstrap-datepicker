@@ -1,20 +1,6 @@
 {
     "name": "eternicode/bootstrap-datepicker",
-    "type": "component",
-    "require": {
-        "robloach/component-installer": "*",
-        "components/bootstrap" : ">=3.0, <4.0",
-        "components/jquery": ">=1.7.1"
-    },
-    "extra": {
-        "component": {
-            "scripts": [
-                "js/bootstrap-datepicker.js"
-            ],
-            "styles": [
-                "css/datepicker.css",
-                "css/datepicker3.css"
-            ]
-        }
-    }
+    "description": "Forked from original to alter composer.json to fit a more generic install.",
+    "homepage": "https://github.com/eternicode/bootstrap-datepicker",
+    "license": "Apache",
 }
