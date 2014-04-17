@@ -2,5 +2,5 @@
     "name": "eternicode/bootstrap-datepicker",
     "description": "Forked from original to alter composer.json to fit a more generic install.",
     "homepage": "https://github.com/eternicode/bootstrap-datepicker",
-    "license": "Apache",
+    "license": "Apache"
 }
